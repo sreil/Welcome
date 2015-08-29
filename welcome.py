@@ -1,4 +1,5 @@
 import simplegui
+import simpleguitk as simplegui
 
 message = "Welcome!"
 
